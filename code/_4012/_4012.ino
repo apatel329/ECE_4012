@@ -1,4 +1,4 @@
-#include <PololuLedStrip.h>
+//#include <PololuLedStrip.h>
 
 PololuLedStrip<12> ledStrip;
 PololuLedStrip<13> ledStrip1; 
